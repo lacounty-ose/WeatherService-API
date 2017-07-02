@@ -1,6 +1,6 @@
 Weather API
 
-Creating Simple Web Service to return past week weather information based on the location.
+Creating Simple Web Service to display the past week weather information based on the location.
 
 In order to get the historic weather data API provided by https://www.worldweatheronline.com/ is used, the service currently returns the weather information as provided by the API mentioned earlier, for last 7 days. It uses the start_date, end_date and time_period (24 Hrs) parameter as the fields to query the weather data.
 
